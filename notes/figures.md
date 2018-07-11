@@ -35,6 +35,6 @@ Pneumonia                            |                                          
 
 # Age info might not be totally correct, as there are 16 patients with age greater than 140
 
-![img](/var/folders/j6/tr14b6gd22l9h88q_4v74_0h4vb04j/T/abnerworks.Typora/image.tiff)
+![img](age_junior.png)
 
 ![img](/var/folders/j6/tr14b6gd22l9h88q_4v74_0h4vb04j/T/abnerworks.Typora/image-20180710230724116.tiff)
