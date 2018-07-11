@@ -20,15 +20,15 @@ Infiltration, Nodule |                                                          
 Atelectasis, Effusion, Infiltration |                                                737
 Fibrosis                            |                                             727
 Edema                               |                                             628
-Cardiomegaly|Effusion               |                                             484
-Consolidation|Infiltration          |                                             441
-Infiltration|Mass                   |                                             420
-Effusion|Pneumothorax               |                                             403
-Effusion|Mass                       |                                             402
-Atelectasis|Consolidation           |                                             398
-Mass|Nodule                         |                                             394
-Edema|Infiltration                  |                                             392
-Infiltration|Pneumothorax           |                                             345
-Consolidation|Effusion               |                                            337
-Emphysema|Pneumothorax               |                                            337
+Cardiomegaly, Effusion               |                                             484
+Consolidation, Infiltration          |                                             441
+Infiltration, Mass                   |                                             420
+Effusion, Pneumothorax               |                                             403
+Effusion, Mass                       |                                             402
+Atelectasis, Consolidation           |                                             398
+Mass, Nodule                         |                                             394
+Edema, Infiltration                  |                                             392
+Infiltration, Pneumothorax           |                                             345
+Consolidation, Effusion               |                                            337
+Emphysema, Pneumothorax               |                                            337
 Pneumonia                            |                                            322k
