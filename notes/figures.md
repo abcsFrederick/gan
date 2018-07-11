@@ -35,9 +35,7 @@ Pneumonia                            |                                          
 
 # Age info might not be totally correct, as there are 16 patients with age greater than 140
 
-![img](age_junior.png)
-
-![img](age_old.png)
+![img](../scripts/age_dist.png)
 
 # gender
   male | female
