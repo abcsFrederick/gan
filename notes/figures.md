@@ -31,4 +31,10 @@ Edema, Infiltration                  |                                          
 Infiltration, Pneumothorax           |                                             345
 Consolidation, Effusion               |                                            337
 Emphysema, Pneumothorax               |                                            337
-Pneumonia                            |                                            322k
+Pneumonia                            |                                            322
+
+# Age info might not be totally correct, as there are 16 patients with age greater than 140
+
+![img](/var/folders/j6/tr14b6gd22l9h88q_4v74_0h4vb04j/T/abnerworks.Typora/image.tiff)
+
+![img](/var/folders/j6/tr14b6gd22l9h88q_4v74_0h4vb04j/T/abnerworks.Typora/image-20180710230724116.tiff)
