@@ -37,4 +37,16 @@ Pneumonia                            |                                          
 
 ![img](age_junior.png)
 
-![img](/var/folders/j6/tr14b6gd22l9h88q_4v74_0h4vb04j/T/abnerworks.Typora/image-20180710230724116.tiff)
+![img](age_old.png)
+
+# gender
+  male | female
+  --- | ---
+  63340 | 48780
+
+# view
+  AP | PA
+  --- | ---
+  44810 | 67310
+
+  "The AP shows magnification of the heart and widening of the mediastinum.  Whenever possible the patient should be imaged in an upright PA position.  AP views are less useful and should be reserved for very ill patients who cannot stand erect."
