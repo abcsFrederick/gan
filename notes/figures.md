@@ -33,9 +33,9 @@ Consolidation, Effusion               |                                         
 Emphysema, Pneumothorax               |                                            337
 Pneumonia                            |                                            322
 
-# Age info might not be totally correct, as there are 16 patients with age greater than 140
+# Age 
+Age info might not be totally correct, as there are 16 patients with age greater than 140
 
-![img](age_old.png)
 ![img](../scripts/age_dist.png)
 
 # gender
@@ -49,3 +49,7 @@ Pneumonia                            |                                          
   44810 | 67310
 
   "The AP shows magnification of the heart and widening of the mediastinum.  Whenever possible the patient should be imaged in an upright PA position.  AP views are less useful and should be reserved for very ill patients who cannot stand erect."
+
+# Training targets:
+1. "No Finding", male, PA, 18-68;
+2. "Infiltration", male, PA, 18-68;
