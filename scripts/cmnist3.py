@@ -1,9 +1,11 @@
 '''
+GAN Biomedical Image Training
+Xinlian Liu
+Yanling Liu
+
+Based on
 DCGAN on MNIST using Keras
 Author: Rowel Atienza
-Project: https://github.com/roatienza/Deep-Learning-Experiments
-Dependencies: tensorflow 1.0 and keras 2.0
-Usage: python3 dcgan_mnist.py
 '''
 
 import os
