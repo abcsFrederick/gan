@@ -8,7 +8,7 @@
 #### Team Imaging ML Pipeline
 Team Lead: Xinlian Liu  
 Team Lead: Yanling Liu  
-Team members: Samar Samarjeet
-	Babak Saboury
-	Chun-Hung Lin
-	Andrea Nuzzo
+Team members: Samar Samarjeet  
+	Babak Saboury  
+	Chun-Hung Lin  
+	Andrea Nuzzo  
