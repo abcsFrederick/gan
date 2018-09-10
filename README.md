@@ -6,9 +6,9 @@
 #### CRX14 image synthesis
 
 #### Team Imaging ML Pipeline
-Team Lead: Xinlian Liu
-Team Lead: Yanling Liu
-Team members: SAmar Samarjeet
+Team Lead: Xinlian Liu  
+Team Lead: Yanling Liu  
+Team members: Samar Samarjeet
 	Babak Saboury
 	Chun-Hung Lin
-`	Andrea Nuzzo
+	Andrea Nuzzo
